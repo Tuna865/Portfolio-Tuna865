@@ -1,0 +1,77 @@
+.header-name{
+    float:left;
+}
+nav{
+    display: block;
+}
+.navbar{
+    float:right;
+}
+main {
+    min-height: 100vh;
+    padding: 65px 25px 95px;
+    
+}
+header {
+    font-size: 1.5rem;
+    position: fixed;
+    left: 0;
+    right: 0;
+    padding: .5em .5em;
+    box-shadow: 0 2px 4px -2px black;
+    background-color: lightgray;
+    display: block;
+    margin: 0px;
+}
+
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer {
+    box-sizing: border-box;
+    position: fixed;
+    height: 64px;
+    padding: 16px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    box-shadow: 0 -2px 4px -2px black;
+    background-color: lightgray;
+}
+footer .social-links{
+    height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
