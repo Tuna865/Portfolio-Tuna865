@@ -1,12 +1,11 @@
 .header-name{
     float:left;
+    
 }
 nav{
     display: block;
 }
-.navbar{
-    float:right;
-}
+
 main {
     min-height: 100vh;
     padding: 65px 25px 95px;
@@ -20,7 +19,9 @@ header {
     padding: .5em .5em;
     box-shadow: 0 2px 4px -2px black;
     background-color: lightgray;
-    display: block;
+    display: flex;
+    flex-direction: row;
+
     margin: 0px;
 }
 
