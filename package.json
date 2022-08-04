@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-tuna865",
+  "version": "1.0.0",
+  "description": "This was originally my \"portfolio\" site back when I began Fullstack Academy (12/6/21)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuna865/Portfolio-Tuna865.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuna865/Portfolio-Tuna865/issues"
+  },
+  "homepage": "https://github.com/Tuna865/Portfolio-Tuna865#readme"
+}
