@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Tuna865/Portfolio-Tuna865.git"
   },
-  "author": "",
+  "author": "Tuna865",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Tuna865/Portfolio-Tuna865/issues"
   },
-  "homepage": "https://github.com/Tuna865/Portfolio-Tuna865#readme"
+  "homepage": "https://github.com/Tuna865/Portfolio-Tuna865#readme",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
 }
